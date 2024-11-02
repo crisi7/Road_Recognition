@@ -1,2 +1,3 @@
 # Pattern_recognition
-hw1
+Folder SVM - hw1
+Folder Bayes - hw2
